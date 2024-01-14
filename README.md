@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm Shivaditya
 
+Aspiring to be a lot of things. Data Science, development (especially App and Game) are my primary interests. 
+I will write more soon. At the moment, here are some of my GitHub stats.
 <!--
 **RichPerspective007/RichPerspective007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Umbrella007's GitHub | Stats](https://stats.quine.sh/Umbrella007/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Umbrella007)
